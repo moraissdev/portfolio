@@ -355,7 +355,7 @@ transition: transform 0.4s ease-in-out;
 }
 
 bdi {
-    font-size: 55px;
+    font-size: 60px;
 }
 
 h2 bdi::after {
@@ -394,7 +394,7 @@ img {
 
 b {
     font-weight: 600;
-    font-size: 65px;
+    font-size: 60px;
 }
 
 .aluno-devclub {
@@ -779,7 +779,7 @@ h4 {
             font-size: 70px;
             line-height: 1;
             margin-bottom: 20px;
-            letter-spacing: -2px;
+            letter-spacing: -3px;
         }
 
         .modulos-curso-devclub {
