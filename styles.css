@@ -451,7 +451,7 @@ h4 {
     color: white;
 }
 
-@media (min-width: 769px) and (max-width:130px) {
+@media (max-width: 768px) {
 
     header {
     width: 84.5%;
@@ -722,7 +722,7 @@ h4 {
     }
     }
 
-    @media (max-width: 1300px) {
+    @media (min-width: 769px) and (max-width: 1300px) {
 
         .secao {
             padding: 100px 0;
@@ -839,9 +839,9 @@ h4 {
         }
 
         .img-aluno-devclub {
-            border-radius: 25px;
-            outline: 1px solid rgb(255 255 255 / 15%);
-            padding: 10px 10px;
-            margin-left: 10px;
-        }
+    border-radius: 25px;
+    outline: 1px solid rgb(255 255 255 / 15%);
+    padding: 10px 10px;
+    margin-left: 10px;
+}
     }
