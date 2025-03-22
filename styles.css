@@ -794,8 +794,7 @@ h4 {
         }
 
         header {
-            display: flex
-        ;
+            display: flex;
             justify-content: space-between;
             padding: 30px;
             margin-left: 35px;
@@ -830,5 +829,19 @@ h4 {
             width: 95%;
         }
 
-        
+        .texto-aluno-devclub {
+            color: #c3c3c3;
+            font-size: 17px;
+            font-weight: 300;
+            text-align: left;
+            line-height: 1.5em;
+            width: 418px;
+        }
+
+        .img-aluno-devclub {
+            border-radius: 25px;
+            outline: 1px solid rgb(255 255 255 / 15%);
+            padding: 10px 10px;
+            margin-left: 10px;
+        }
     }
