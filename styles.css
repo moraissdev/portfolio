@@ -451,7 +451,7 @@ h4 {
     color: white;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 769px) and (max-width:130px) {
 
     header {
     width: 84.5%;
