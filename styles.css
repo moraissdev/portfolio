@@ -477,7 +477,7 @@ h4 {
 .conteudo-sobre p {
     margin-bottom: 20px;
     color: #c3c3c3;
-    width: 368px;
+    width: 350px;
     text-align: justify;
 }
 
@@ -557,7 +557,7 @@ h4 {
         margin-top: -10px;
         width: 100%;
         justify-content: center;
-        margin-left: 4px;
+        margin-left: -2px;
     }
 
     .grade-projetos {
