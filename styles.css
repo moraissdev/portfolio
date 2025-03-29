@@ -477,8 +477,8 @@ h4 {
 .conteudo-sobre p {
     margin-bottom: 20px;
     color: #c3c3c3;
-    width: 350px;
     text-align: justify;
+    width: auto;
 }
 
 .titulo-secao {
@@ -537,9 +537,7 @@ h4 {
 
     .conteudo-sobre h2 {
         font-size: 30px;
-        width: 355px;
         text-align: center;
-        margin: auto;
         margin-bottom: 15px;
     }
 
