@@ -735,7 +735,50 @@ h4 {
     }
 
     @media screen and (min-width: 768px) and (max-width: 1024px) {
+    .aluno-devclub {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        justify-content: space-around;
+        padding: 35px 35px;
+        margin-right: 75px;
+        margin-left: 74px;
+        background-color: #100f0ff2;
+        border-radius: 25px;
+        border: 1px solid rgb(255 255 255 / 15%);
+        margin-top: 115px;
+        margin-bottom: 100px;
+        gap: 25px;
+    }  
 
+    .sobre {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0px;
+    align-items: center;
+    max-width: 850px;
+    margin: auto;
+}
+
+.secao {
+    padding: 100px 0;
+    padding-left: 50px;
+    margin-left: 0px;
+    padding-right: 50px;
+}
+
+.principal {
+    display: flex
+;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+    min-height: 85vh;
+    margin: 0px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 0px;
+}
     }
 
     @media screen and (min-width: 1025px) and (max-width: 1300px) {
