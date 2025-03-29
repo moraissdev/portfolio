@@ -737,9 +737,9 @@ h4 {
     @media screen and (min-width: 768px) and (max-width: 820px) {
         .conteudo {
             max-width: 100%;
-            margin-bottom: 50px;
+            margin-bottom: 35px;
         }
-        
+
         .aluno-devclub {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -854,6 +854,8 @@ h4 {
     }
 
     .habilidades {
+        display: block;
+        width: 100%;
         margin-top: 20px;
         text-align: center;
     }
