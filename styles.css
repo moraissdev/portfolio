@@ -846,12 +846,13 @@ h4 {
     .conteudo-sobre h2 {
         margin-bottom: 20px;
         font-size: 30px;
-        text-align: center;
+        text-align: justify;
     }
 
     .habilidades {
         display: block;
         margin-top: 20px;
+        text-align: center;
     }
 }
 
