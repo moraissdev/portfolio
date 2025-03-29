@@ -811,8 +811,7 @@ h4 {
     }
 
     footer {
-        display: flex
-    ;
+        display: flex;
         justify-content: space-around;
         padding: 30px 5%;
         gap: 50px;
