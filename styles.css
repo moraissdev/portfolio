@@ -793,19 +793,21 @@ h4 {
 }
 
 .img-apresentacao {
-    width: 500px;
+    width: 450px;
     height: auto;
     margin-right: 0px;
 }
 
 header {
     display: flex;
-    justify-content: space-between;
     padding: 30px;
     margin-left: 20px;
     margin-right: 50px;
     align-items: center;
     border-bottom: 1px solid rgb(195 195 195 / 30%);
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
 }
     }
 
