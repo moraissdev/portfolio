@@ -769,9 +769,8 @@ h4 {
     }
     
     .principal {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+        display: grid;
+        grid-template-columns: 1fr;
         padding: 60px;
         min-height: 85vh;
         margin: 0px auto;
