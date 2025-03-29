@@ -740,9 +740,9 @@ h4 {
         grid-template-columns: 1fr 1fr;
         align-items: center;
         justify-content: space-around;
-        padding: 35px 35px;
-        margin-right: 60px;
-        margin-left: 60px;
+        padding: 35px 30px;
+        margin-right: 35px;
+        margin-left: 35px;
         background-color: #100f0ff2;
         border-radius: 25px;
         border: 1px solid rgb(255 255 255 / 15%);
