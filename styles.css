@@ -789,7 +789,23 @@ h4 {
 .grade-projetos {
     display: grid;
     grid-template-columns: repeat(2, minmax(300px, 500px));
-    gap: 30px 20px;
+    gap: 30px 25px;
+}
+
+.img-apresentacao {
+    width: 500px;
+    height: auto;
+    margin-right: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 50px;
+    align-items: center;
+    border-bottom: 1px solid rgb(195 195 195 / 30%);
 }
     }
 
