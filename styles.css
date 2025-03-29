@@ -768,8 +768,7 @@ h4 {
 }
 
 .principal {
-    display: flex
-;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 60px;
@@ -778,6 +777,19 @@ h4 {
     padding-left: 50px;
     padding-right: 50px;
     margin-left: 0px;
+}
+
+.card-projeto {
+    background-color: #1d1d1d9e;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 92%;
+}
+
+.grade-projetos {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(300px, 500px));
+    gap: 30px 15px;
 }
     }
 
