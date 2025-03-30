@@ -229,10 +229,12 @@ ul {
 
 .tech-icons-projects-dev-club {
     border: 1px solid #c3c3c3;
+    height: 32px;
 }
 
 .solid-icons-projects-dev-club {
     border: none;
+    height: 42px;
 }
 
 .sobre {
